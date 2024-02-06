@@ -1,0 +1,52 @@
+
+
+.container h1{
+    padding-left: 30px;
+
+}
+
+section#hero .container .info{
+    text-align: center;
+    background-color: #CCCCCC;
+    border: 10px solid black;
+    padding: 20px;
+    margin: 40px;
+}
+
+.title-container img{
+    width: 100%;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+#mision em strong{
+    color: red;
+    
+}
+
+.diferenciales{
+    background-color: #FFFFFF;
+    padding: 30px;
+}
+
+.diferenciales h3{
+   text-align: center;
+}
+
+.items{
+    font-style: italic;
+}
+
+.diferenciales ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    
+}
+
+.imagen-diferenciales{
+    width: 50%;
+}
